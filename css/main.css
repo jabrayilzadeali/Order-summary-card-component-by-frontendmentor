@@ -135,7 +135,7 @@ circle {
 	}
 
 	.container {
-		width: 420px;
+		width: 400px;
 	}
 
 	.flex {
@@ -145,5 +145,4 @@ circle {
 	.payment {
 		margin: 0 2.4rem;
 	}
-
   }
